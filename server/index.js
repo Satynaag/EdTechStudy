@@ -36,7 +36,7 @@ app.use(
 	})
 );
 app.use(cors({
-  origin: "http://localhost:3000",  // your React frontend
+  origin: "*",  // your React frontend
   credentials: true
 }));
 
