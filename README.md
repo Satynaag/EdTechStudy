@@ -1,6 +1,6 @@
 # 📚 StudyNotion – EdTech Platform
 
-**Live Demo**: [https://Edtech-frontend-wheat.vercel.app/](ed-tech-study-668u.vercel.app)
+**Live Demo**: [https://Edtech-frontend-wheat.vercel.app/](https://ed-tech-study-668u.vercel.app/)
 
 > **Note**: OTP verification email might be found in your **Spam** folder.
 
